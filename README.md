@@ -14,6 +14,7 @@
   <img align="left" alt=" Codechef" width="22px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" />
 </a>
 
+###
 
 ### Hi 🙋‍♂️ Here's something about me:
 
@@ -21,7 +22,7 @@
 #### -> Proficient in Data Structures and Algorithms and have participated in ACM ICPC regionals round.
 #### -> Currently working on improving my back-end development skills.
 
-### Languages and Skills :bulb:
+### Technical Skills :bulb:
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://github.com/AbhilashChalla) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++)](https://github.com/AbhilashChalla) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)](https://github.com/AbhilashChalla)  [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=black)](https://github.com/AbhilashChalla) 
 
