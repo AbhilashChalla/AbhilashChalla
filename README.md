@@ -14,7 +14,9 @@
   <img align="left" alt=" Codechef" width="22px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" />
 </a>
 
+
 ### Hi 🙋‍♂️ Here's something about me:
+
 #### -> Software Developer with professional experience working on NLP and back-end development for 1 year.  
 #### -> Proficient in Data Structures and Algorithms and have participated in ACM ICPC regionals round.
 #### -> Currently working on improving my back-end development skills.
