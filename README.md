@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/abhilash-challa-aab02812a/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com//">
+<a href="https://leetcode.com/abhilash97/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.codechef.com/users/abhilash97">
