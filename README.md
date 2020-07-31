@@ -21,7 +21,7 @@
 
 #### -> Software Developer with professional experience working on NLP and back-end development.  
 #### -> Proficient in Data Structures and Algorithms and have participated in ACM ICPC regionals round.
-#### -> Currently working on taking my back-end development skilsl to next level.
+#### -> Currently working on taking my back-end development skills to next level.
 
 ### Technical Skills :bulb:
 
